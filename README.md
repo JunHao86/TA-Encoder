@@ -6,7 +6,7 @@ Using Java, created an encoder to encode and decode a message based on a given o
 - Takes in an offset character to shift the table by a given value
 - Provide two methods to perform encoding and decoding that takes in a single String, plainText and encodedText respectively
 
-## How to use
+## How to use:
 
 1. Clone the repository or download it as a .zip file and extract its contents
 2. Import the project into Eclipse or Visual Studio Code as a Maven Project
